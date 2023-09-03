@@ -1,0 +1,14 @@
+Contents :
+    1. ANN : 
+    2. CNN :
+            Convolution operation : Feature,Stride,Zero Padding, Activation Map
+            ReLu
+            Max pooling
+            Flattening
+            Fool COnnection 
+            Softmax and cross entropy
+
+    3. RNN : 
+    
+
+
